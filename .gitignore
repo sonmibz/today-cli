@@ -1,0 +1,7 @@
+node_modules
+main-*
+*.exe
+*.out
+*.sh
+.DS_Store
+.idea
